@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi,  I'm José</h1>
+<h1 align="left">👋 Hi, I'm José</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=yellow" alt="Profile views" /> </p>
 
 
@@ -6,7 +6,7 @@
 - 👨‍💻 I am currently studying four programming languages.
 - 🌱 Collaborating on public and private projects.
 - 🥷 Creating 11 creative app ideas.
-- 💜 Studying at @rocketseat.
+- 💜 Studying at @rocketseat and @youtube
 
 <br>
 
