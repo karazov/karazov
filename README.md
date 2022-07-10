@@ -6,7 +6,7 @@
 - 👨‍💻 I am currently studying four programming languages.
 - 🌱 Collaborating on private projects.
 - 🥷 Creating 11 creative app ideas.
-- 💜 Studying at @rocketseat and @youtube
+- 💜 Studying at @rocketseat and @youtube.
 
 <br>
 
