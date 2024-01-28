@@ -5,7 +5,6 @@
 - ⚡ Better than the first coffee of the day, only the second.
 - 👨‍💻 I am currently studying four programming languages.
 - 🌱 Collaborating on private projects.
-- 😎 Creating 11 creative app ideas.
 
 <br>
 
