@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=yellow" alt="Profile views" /> </p>
 
 
-- ⚡ Better than the first coffee of the day, only the second.
-- 👨‍💻 I am currently studying four programming languages.
+- ⚡ Better than the first coffee of the day, just the second.
+- 👨‍💻 I'm currently specializing in a programming language.
 - 🌱 Collaborating on private projects.
 
 <br>
