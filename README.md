@@ -1,10 +1,14 @@
 <h1 align="left">👋 Hi, I'm José</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=green" alt="Profile views" /> </p>
 
 
 - ⚡ Better than the first coffee of the day, just the second.
-- 👨‍💻 I'm currently specializing in a programming language.
+- 🔥 Junior Front-End, creating modern and intuitive interfaces.
 - 🌱 Collaborating on private projects.
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,vscode,aws,cloudflare,github,figma&theme=dark)](https://skillicons.dev)
 
 <br>
 
