@@ -13,4 +13,9 @@
 
 <br>
 
+- 🌐 Blending creativity, logic, and modern tech tools.
+- ✨ Building modern interfaces with care and precision.
+
+<br>
+
 ![Snake animation](https://github.com/karaz0v/karaz0v/blob/output/github-contribution-grid-snake.svg)
