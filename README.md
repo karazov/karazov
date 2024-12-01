@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm José</h1>
-<img align="right" height="300rem" src="https://github.com/karazov/karazov/blob/main/ninja-code.jpg"/>
+<img align="right" height="320rem" src="https://github.com/karazov/karazov/blob/main/ninja-code.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=green" alt="Profile views" /> </p>
 
 
@@ -9,7 +9,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,vscode,aws,cloudflare,github,figma&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,vscode,aws,cloudflare,github,figma&theme=dark)](https://skillicons.dev)
 
 <br>
 
