@@ -9,7 +9,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,vscode,aws,cloudflare,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,vscode,aws,cloudflare,github,figma&theme=dark&perline=5)](https://skillicons.dev)
 
 <br>
 
