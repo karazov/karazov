@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm José</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm José</h1>
 <img align="right" height="320rem" src="https://github.com/karazov/karazov/blob/main/ninja-code.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=green" alt="Profile views" /> </p>
 
